@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stones2milestones/static/css/main.4f4f3483.css",
+    "main.js": "/stones2milestones/static/js/main.a812d204.js",
+    "static/js/453.feb21b88.chunk.js": "/stones2milestones/static/js/453.feb21b88.chunk.js",
+    "static/media/Teacher_Dp.png": "/stones2milestones/static/media/Teacher_Dp.2b05079e27eddd6a129f.png",
+    "static/media/Student_no2.png": "/stones2milestones/static/media/Student_no2.0c940dc1e01910914796.png",
+    "static/media/Student_no1.png": "/stones2milestones/static/media/Student_no1.3d083b1102f023599989.png",
+    "static/media/Student_no4.png": "/stones2milestones/static/media/Student_no4.e5c1a7a7048648adfe42.png",
+    "static/media/Student_no3.png": "/stones2milestones/static/media/Student_no3.156bc776e5e6362f11d3.png",
+    "index.html": "/stones2milestones/index.html",
+    "main.4f4f3483.css.map": "/stones2milestones/static/css/main.4f4f3483.css.map",
+    "main.a812d204.js.map": "/stones2milestones/static/js/main.a812d204.js.map",
+    "453.feb21b88.chunk.js.map": "/stones2milestones/static/js/453.feb21b88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f4f3483.css",
+    "static/js/main.a812d204.js"
+  ]
+}
