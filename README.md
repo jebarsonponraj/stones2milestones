@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# Stones2Milestones App Readme
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a brief guide to help you run this GroTube app with its dependencies. Please follow the instructions below to get started.
 
-## Available Scripts
+## Live Site
 
-In the project directory, you can run:
+For a live demo of the app, visit: [https://jebarsonponraj.github.io/stones2milestones/](https://jebarsonponraj.github.io/stones2milestones/)
 
-### `npm start`
+## Prerequisites
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Make sure you have the following software installed on your system:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Node.js (version 14 or above)
+- NPM (Node Package Manager)
 
-### `npm test`
+If you don't have Node.js and NPM installed, please follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. **Node.js**:
 
-### `npm run build`
+   - Visit the official Node.js website: [https://nodejs.org/](https://nodejs.org/)
+   - Download the appropriate installer for your operating system.
+   - Run the installer and follow the installation instructions.
+   - To verify the installation, open a terminal and run the following command:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+     ```
+     node -v
+     ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+     This should display the version number of Node.js installed.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. **NPM**:
 
-### `npm run eject`
+   - NPM is included with Node.js. After installing Node.js, NPM should be automatically installed on your system.
+   - To verify the installation, open a terminal and run the following command:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+     ```
+     npm -v
+     ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+     This should display the version number of NPM installed.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Clone the repository:
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Installation
 
-### Code Splitting
+1. Clone the repository:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+    ```
+    git clone https://github.com/jebarsonponraj/stones2milestones.git
+    ```
 
-### Analyzing the Bundle Size
+2. Navigate to the project directory:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+    ```
+    cd <project-directory>
+    ```
 
-### Making a Progressive Web App
+3. Install dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+    ```
+    npm install
+    ```
 
-### Advanced Configuration
+## Running the App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+To start the React app, use the following command:
 
-### Deployment
+    npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Access the app in your browser at [http://localhost:3000](http://localhost:3000)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
