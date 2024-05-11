@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+  min-height: 100vh;
+  background-color: #F1F5F9;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.due {
+  background-image: linear-gradient(to left top, #f77e08, #ff662e, #ff4b49, #ff2f63, #ff127e, #fa1791, #f224a4, #e732b7, #e242c5, #dc4fd2, #d55cdf, #cd67eb);
+}
