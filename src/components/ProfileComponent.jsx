@@ -4,7 +4,7 @@ import StudentsWatchList from './StudentsWatchList'
 
 const ProfileComponent = ({ handlePopupVisibilityChange }) => {
   return (
-    <section className="col-span-3 w-full flex flex-col space-y-8">
+    <section className="lg:col-span-3 col-span-6 w-full flex flex-col space-y-8">
         <div className='w-full flex flex-col items-center space-y-2 bg-white rounded-md shadow-md pt-10 pb-4 px-4'>
             <img src={TeacherDp} alt="Teacher's Profile Image" className='w-24 h-24 rounded-full' />
             <span className='text-sm font-semibold'>Jonas Kahnwald</span>

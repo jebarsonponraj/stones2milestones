@@ -22,7 +22,7 @@ function App() {
           >
             <Popup handlePopupVisibilityChange={handlePopupVisibilityChange} />
           </div>
-          <div className="w-full !mx-auto grid grid-cols-12 gap-8 py-16 px-8">
+          <div className="w-full !mx-auto grid lg:grid-cols-12 grid-cols-6 gap-8 py-16 px-8">
             <ProfileComponent handlePopupVisibilityChange={handlePopupVisibilityChange} />
             <ProgressComponent />
             <DueComponent />

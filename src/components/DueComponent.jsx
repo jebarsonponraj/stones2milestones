@@ -4,7 +4,7 @@ import { Due } from '../assets'
 
 const DueComponent = () => {
   return (
-    <div className='col-span-2 w-full flex flex-col space-y-8'>
+    <div className='lg:col-span-2 col-span-6 w-full flex flex-col space-y-8'>
       <section className='due w-full flex flex-col items-center space-y-8 rounded-md shadow-md pt-10 pb-4 px-4 text-slate-50'>
         <div className='w-full flex space-x-2 items-center'>
           <span className='bg-slate-50 text-slate-900 p-2 rounded-full'><Due /></span>
