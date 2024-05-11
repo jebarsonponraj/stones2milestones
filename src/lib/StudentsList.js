@@ -14,7 +14,8 @@ export const studentsList = [
         "image": StudentNo2,
         "name": "Martha Nielsen",
         "freados": 458,
-        "streaks": 88
+        "streaks": 88,
+        "readingMins": 10
     },
     {
         "id": 3,
@@ -29,7 +30,8 @@ export const studentsList = [
         "image": StudentNo4,
         "name": "Charlotte Doppler",
         "freados": 780,
-        "streaks": 12
+        "streaks": 12,
+        "readingMins": 120
     },
     {
         "id": 5,
@@ -44,6 +46,7 @@ export const studentsList = [
         "image": StudentNo2,
         "name": "Franziska Doppler",
         "freados": 212,
-        "streaks": 66
+        "streaks": 66,
+        "readingMins": 70
     }
 ]

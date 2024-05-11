@@ -18,7 +18,7 @@ function App() {
     <div className="relative w-full h-full">
           <div
             id="popup"
-            className="absolute hidden inset-0 z-50 px-24 py-20 w-full h-full overflow-hidden backdrop-blur-sm flex-col justify-center items-center"
+            className="absolute hidden inset-0 z-50 lg:px-24 px-2 py-20 w-full h-full overflow-hidden backdrop-blur-sm flex-col justify-center items-center"
           >
             <Popup handlePopupVisibilityChange={handlePopupVisibilityChange} />
           </div>
